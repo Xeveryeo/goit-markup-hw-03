@@ -1,1 +1,1 @@
-# continuation of html-mark-up-hw-01 with application of css
+# continuation of html-mark-up-hw-02 with flex property
