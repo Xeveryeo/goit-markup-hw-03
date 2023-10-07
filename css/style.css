@@ -14,7 +14,8 @@ body {
         flex-shrink: 0;
         border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
         background: var(--WHITE, #FFF);
-        margin-bottom: -100px;
+        margin-bottom: -100px; 
+        /* my edit */
 }
 
 .the-header nav {
